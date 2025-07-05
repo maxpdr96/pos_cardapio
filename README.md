@@ -40,7 +40,6 @@ pratos, restaurantes e usuários.
 ## 📱 Demonstração em Vídeo
 📱 Assista ao vídeo de apresentação do app pelo link abaixo:
 📱 [Link do video](https://youtu.be/895JC7GzoZs)
-*(ou adicione o arquivo de vídeo na pasta do projeto)*
 ## 📱 Repositório
 Este repositório contém todo o código-fonte do projeto, bem como os recursos
 visuais utilizados e instruções para execução local.
